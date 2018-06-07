@@ -8,8 +8,6 @@ import org.slf4j.LoggerFactory;
  */
 public class Learn1 {
 
-
-
   public static void main(String args[]) {
     Logger logger = LoggerFactory.getLogger("org.ssy.learn1.Learn1");
     logger.info("hello world");
