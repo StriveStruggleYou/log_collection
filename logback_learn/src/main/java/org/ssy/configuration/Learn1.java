@@ -1,4 +1,4 @@
-package org.ssy.learn1;
+package org.ssy.configuration;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 public class Learn1 {
 
   public static void main(String args[]) {
-    Logger logger = LoggerFactory.getLogger("org.ssy.learn1.Learn1");
+    Logger logger = LoggerFactory.getLogger("org.ssy.configuration.Learn1");
     logger.info("hello world");
   }
 
