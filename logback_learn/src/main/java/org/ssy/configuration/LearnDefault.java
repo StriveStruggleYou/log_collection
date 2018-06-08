@@ -11,6 +11,7 @@ public class LearnDefault {
   public static void main(String args[]) {
     Logger logger = LoggerFactory.getLogger("org.ssy.configuration.LearnDefault");
     logger.info("hello world");
+    
   }
 
 }
